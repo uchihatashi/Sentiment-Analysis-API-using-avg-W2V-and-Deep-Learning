@@ -33,4 +33,6 @@
 
 ### Output in GIF
 
-![Alt Text](https://imgur.com/a/9b7L5o5)
+![click here](https://imgur.com/a/9b7L5o5)
+
+or goto https://imgur.com/a/9b7L5o5
