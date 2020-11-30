@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Sentiment Analysis</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class = "container">
+<div class = "jumbotron text-center">
+    <h2> Sentiment Analysis </h2>
+</div>
+</div>
+
+<div class = "container">
+    <form method = "post" >
+        <label><strong>Enter the text here</strong></label><br>
+
+        <textarea class="form-control" rows="10" cols="60" name="rawtext"></textarea><br>
+        <input type="submit" value="Submit" name = "form.submitted" class="btn btn-primary">
+        
+        <!--<input type="button" onclick="myfunction()" value="Clear" class="btn btn-danger">-->
+
+    </form>
+    <div class = "container">
+        <br>
+        <p> Text: ${text}</p>
+        <p> Processed word: ${processed} </p>
+        <p> Output: ${output} </p>
+    </div>
+    
+</div>
+
+</body>
+</html>
