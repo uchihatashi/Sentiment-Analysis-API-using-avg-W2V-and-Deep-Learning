@@ -29,5 +29,5 @@
 * I tried different algorithms like LogisticRegression, SVM, Random Forest, Gaussian Naive Bayes, and two different Dense Neural Network (DNN) with Adam() and RMSprop() optimizer.
 * As of now, I got the highest probability on Adam optimizer and I set Adam() as my main model optimizer in  train.py file.
 * Max accuracy is between 84 - 86% until we set some random seed.
-* Dont forget to incluse empty file *__init__.py* in **.../sentimental Analysis/SA_WebApp/SA_models/**
+* Dont forget to incluse empty file **_ _init__.py** in **.../sentimental Analysis/SA_WebApp/SA_models/**
 
