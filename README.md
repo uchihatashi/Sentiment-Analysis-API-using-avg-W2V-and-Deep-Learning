@@ -31,3 +31,6 @@
 * Max accuracy is between 84 - 86% until we set some random seed.
 * Dont forget to incluse empty file **_ _init__.py** in **.../sentimental Analysis/SA_WebApp/SA_models/**
 
+### Output in GIF
+
+![Alt Text](https://imgur.com/a/9b7L5o5)
